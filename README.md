@@ -1,4 +1,4 @@
-# My_Data_Analysis_projects
+# My_Data_Analysis_project-1
 
 Greetings to my data analysis repository!📊🔍 This space features projects utilizing Pandas, NumPy, Matplotlib, and Seaborn for managing CSV files, performing exploratory data analysis (EDA), and generating visualizations.
 Dive into the individual projects to see real-world applications and detailed analyses, showcasing various aspects of data manipulation and visualization techniques.🚀📈
